@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 Pero cerebro les vigila
 
 ### Actualizado desde github
+
+
+##Actuyalizado en local
